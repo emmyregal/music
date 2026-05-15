@@ -67,3 +67,38 @@ function stopAll() {
     Tone.Transport.cancel();
     synth.triggerRelease();
 }
+
+
+
+function playA1() {
+    synth.triggerAttackRelease("A1", "8n");
+}
+
+function playA2() {
+    synth.triggerAttackRelease("A2", "8n");
+}
+
+function playA3() {
+    synth.triggerAttackRelease("A3", "8n");
+}
+
+function playA4() {
+    synth.triggerAttackRelease("A4", "8n");
+}
+
+function playA5() {
+    synth.triggerAttackRelease("A5", "8n");
+}
+
+function playA6() {
+    synth.triggerAttackRelease("A6", "8n");
+}
+
+function playA7() {
+    synth.triggerAttackRelease("A7", "8n");
+}
+
+function playA8() {
+    synth.triggerAttackRelease("A8", "8n");
+}
+
