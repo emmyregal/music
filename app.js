@@ -102,3 +102,34 @@ function playA8() {
     synth.triggerAttackRelease("A8", "8n");
 }
 
+function playB1() {
+    synth.triggerAttackRelease("B1", "8n");
+}
+
+function playB2() {
+    synth.triggerAttackRelease("B2", "8n");
+}
+
+function playB3() {
+    synth.triggerAttackRelease("B3", "8n");
+}
+
+function playB4() { 
+    synth.triggerAttackRelease("B4", "8n");
+}
+
+function playB5() {
+    synth.triggerAttackRelease("B5", "8n");
+}
+
+function playB6() {
+    synth.triggerAttackRelease("B6", "8n");
+}
+
+function playB7() {
+    synth.triggerAttackRelease("B7", "8n");
+}
+
+function playB8() {
+    synth.triggerAttackRelease("B8", "8n");
+}
