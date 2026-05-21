@@ -165,3 +165,35 @@ function playC7() {
 function playC8() {
     synth.triggerAttackRelease("C8", "8n");
 }
+
+function playD1() {
+    synth.triggerAttackRelease("D1", "8n");
+}
+
+function playD2() {
+    synth.triggerAttackRelease("D2", "8n");
+}
+
+function playD3() {
+    synth.triggerAttackRelease("D3", "8n");
+}
+
+function playD4() {
+    synth.triggerAttackRelease("D4", "8n");
+}
+
+function playD5() {
+    synth.triggerAttackRelease("D5", "8n");
+}
+
+function playD6() {
+    synth.triggerAttackRelease("D6", "8n");
+}
+
+function playD7() {
+    synth.triggerAttackRelease("D7", "8n");
+}
+
+function playD8() {
+    synth.triggerAttackRelease("D8", "8n");
+}
